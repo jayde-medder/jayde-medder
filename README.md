@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/jayde-medder/
 
 #### Re:Gear
-I'm currently working on the inventory management system for Re:Gear Hardware Library Ōtepoti, which is a repo you won't see displayed here... For now! With funding from the Dunedin waste minimalisation fund we are working to achieve a website where the public can request to borrow/claim repurposed hardware, music gear & parts. More about Re:Gear Hardware Library here:
+I'm currently working on the inventory management system for Re:Gear Hardware Library Ōtepoti. With funding from the Dunedin waste minimalisation fund we are working to achieve a website where the public can request to borrow/claim repurposed hardware, music gear & parts. More about Re:Gear Hardware Library here:
 
 - https://www.instagram.com/regear_library/?hl=bg
 - https://www.linkedin.com/company/regear-hardware-library/
